@@ -1,5 +1,5 @@
 # Kafka
-
+[get started](https://kafka.apache.org/42/getting-started/introduction/)
 Kafka is distributed, event-store, real time streaming platform
 
 Producer to broker
@@ -55,3 +55,5 @@ if 1 fails, another steps in as new leader without losing any data
 # APIs
 
 4 apis: Producer, Consumer, Streams, Connector
+
+[interview prep](https://x.com/i/status/2006733716614426850)
